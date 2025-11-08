@@ -1,0 +1,9 @@
+[
+  {
+    "key": "message",
+    "label": "User Message",
+    "description": "Natural language request with all constraints (e.g., 'eco-friendly bamboo kitchen items under 1000, rating above 4, no plastic')",
+    "type": "string",
+    "required": true
+  }
+]
